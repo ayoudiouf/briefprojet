@@ -1,0 +1,154 @@
+header{
+    background-color: #010520;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.card{
+    display: flex;
+    /* justify-content: space-between; */
+    color: white;
+    margin-left: 10%;
+    
+   
+    /* min-width: 100px; */
+}
+.card i{
+    color: orange;
+}
+
+.icons{
+    color: white;
+    margin-right: 10%;
+ 
+}
+.icons i{
+    padding-top: 20%;
+}
+.menu{
+    /* background-color: yellowgreen; */
+    display: flex;
+   
+  
+}
+.log{
+    margin-left: 120px;
+}
+ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+   
+}
+.map{
+    padding-right: -40px;
+    margin-left: 10px;
+}
+.horlog{
+    margin-left: 50px;
+}
+.phone{
+    margin-left: 50px;
+}
+/* .card p i{
+    min-width: 50px;
+    margin-left: 10px;
+} */
+select{
+    border-style: none;
+    background-color: white;
+}
+
+ul li{
+    /* text-align: center;  */
+    /* display: flex;
+    justify-content: space-between; */
+    min-width: 32%;
+}
+img{
+    width: 100%;
+}
+.Contain{
+    padding-left: 10%;
+}
+h3{
+    font-size: 100%;
+}
+
+.lorem{
+    width: 30%;
+    font-size: 10px;
+    color: gray;
+}
+
+.personage img{
+    width: 30%;
+    margin-left: 40%;
+    position: relative;
+    top: -400px;
+}
+.footer{
+    /* background-image: url(muscle.jpeg);
+    background-repeat: no-repeat;
+    width: 500%; */
+    position: relative;
+    top: -400px;
+}
+.footer img{
+height: 240px;
+}
+h4{
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    top: -310px;
+    color: white;
+}
+.title{
+    text-align: center;
+    position: relative;
+    top: -370px;
+    color: white;
+}
+
+.iconfooter{
+    display: flex;
+    /* justify-content: space-between; */
+    text-align: center;
+    margin-left: 5%;
+    position: relative;
+    top: -400px;
+    color: white;
+}
+   
+.iconfooter img{
+    width: 30px;
+    height: 20px;
+    
+    /* position: relative;
+    top: -370px; */
+}
+.footer1 img{
+    margin-bottom: -20px;
+}
+.footer2 img{
+    margin-bottom: -20px;
+}
+.footer3 img{
+    margin-bottom: -20px;
+}
+.iconfooter .footer1{
+    position: relative;
+    top: -380px;
+    margin-right: 20%;
+}
+.iconfooter .footer2{
+    position: relative;
+    top: -380px;
+}
+.iconfooter .footer3{
+    position: relative;
+    top: -380px;
+    margin-left: 20%;
+}
+
